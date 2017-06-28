@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
+
 # Hello World
 ** This is a test **
