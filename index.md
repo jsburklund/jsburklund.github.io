@@ -8,3 +8,13 @@ Robotics geek, and entrepreneur, distance runner.  I am passionate about learnin
 
 # Personal Mission
 To work on awesome robotics projects that expand my capabilities, that matter to the rest of the world, and improve people's lives.  I am energized by helping others learn and grow, and am motivated to work on projects that make a positive difference in the world.
+
+# Projects
+
+## Gemini: FIRST Tech Challenge Robot
+![Gemini setup for the next match](images/gemini.jpg)
+This robot was designed and created for the 2014 FTC Season "Block Party!"  As a **one-student team**, I designed, built, programmed, tested, and drove this robot all the way to the World Championships.  In my spare time I had the opportunity to develop more advanced software that would detect the robot connection state, and other system statuses and display relevant information on a strip of addressable LEDS.  With this robot, I also custom designed and fabricated a dog-clutch for a Power-Take-Off from the drivetrain motors to use for hanging.
+
+## Apollo: Tele-Connect Robot
+![Apollo](images/apollo.jpg)
+From what started as a spark of inspiration, this robot was designed as part of the Tele-Connect project that I initiated and piloted with friends from Sydney Australia.  Apollo was designed so that it was light-weight, low-cost, and durable enough to shipped around the entire world while still fitting in a small package for easy shipping.  Through the Tele-Connect project, I was able to control Apollo from my basement in Iowa in a robotics competition all the way in Sydney, Australia, and was later able to have children in Australia drive the robot in my basement.
