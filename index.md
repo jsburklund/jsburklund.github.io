@@ -15,6 +15,10 @@ To work on awesome robotics projects that expand my capabilities, that matter to
 Developed a vision based system to detect buoys floating on the water as part of the 2017 International Robotic Sailing Regatta (Sailbot). System consists of a Raspberry Pi Zero, RPi Camera V2, OpenCV, and wireless networking to send buoy location information to the boat.
 ![Sailbot V2](images/sailbotv2.png)
 
+## Autonomous Mapping Turtlebot
+Programmed a Turtlebot 2 to map and explore an unknown environment. Robot implemented Gmapping SLAM algorithm to generate maps, segmented occupied, free, and unknown space, and used A* to plan paths to unexplored frontiers in the environment. Algorithms were first validated in simulation using Gazebo before being implemented on the robot with Python.
+![Turtlebot Mapping](images/turtlebot.png)
+
 ## Gemini: FIRST Tech Challenge Robot
 This robot was designed and created for the 2014 FTC Season "Block Party!"  As a **one-student team**, I designed, built, programmed, tested, and drove this robot all the way to the World Championships.  In my spare time I had the opportunity to develop more advanced software that would detect the robot connection state, and other system statuses and display relevant information on a strip of addressable LEDS.  With this robot, I also custom designed and fabricated a dog-clutch for a Power-Take-Off from the drivetrain motors to use for hanging.  
 ![Gemini setup for the next match](images/gemini.jpg)
