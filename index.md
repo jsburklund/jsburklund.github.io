@@ -11,6 +11,10 @@ To work on awesome robotics projects that expand my capabilities, that matter to
 
 # Projects
 
+## Autonomous Sailboat
+Developed a vision based system to detect buoys floating on the water as part of the 2017 International Robotic Sailing Regatta (Sailbot). System consists of a Raspberry Pi Zero, RPi Camera V2, OpenCV, and wireless networking to send buoy location information to the boat.
+![Sailbot V2](images/sailbotv2.png)
+
 ## Gemini: FIRST Tech Challenge Robot
 This robot was designed and created for the 2014 FTC Season "Block Party!"  As a **one-student team**, I designed, built, programmed, tested, and drove this robot all the way to the World Championships.  In my spare time I had the opportunity to develop more advanced software that would detect the robot connection state, and other system statuses and display relevant information on a strip of addressable LEDS.  With this robot, I also custom designed and fabricated a dog-clutch for a Power-Take-Off from the drivetrain motors to use for hanging.  
 ![Gemini setup for the next match](images/gemini.jpg)
