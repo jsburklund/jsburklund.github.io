@@ -18,3 +18,7 @@ This robot was designed and created for the 2014 FTC Season "Block Party!"  As a
 ## Apollo: Tele-Connect Robot
 From what started as a spark of inspiration, this robot was designed as part of the Tele-Connect project that I initiated and piloted with friends from Sydney Australia.  Apollo was designed so that it was light-weight, low-cost, and durable enough to shipped around the entire world while still fitting in a small package for easy shipping.  Through the Tele-Connect project, I was able to control Apollo from my basement in Iowa in a robotics competition all the way in Sydney, Australia, and was later able to have children in Australia drive the robot in my basement.  
 ![Apollo](images/apollo.jpg)
+
+## RC Lawnmower
+What began as a way out of pushing a lawnmower became one of my first robotics projects.  Between 5th and 6th grade I learned all about motor controllers, remote control, and robotics drivetrains on my own, and got some help welding the frame together.  After some scrapes, burns, and learning the smell of fried electronics, I was able to mow the lawn remotely for several summers.
+![Remote Controlled Lawnmower](images/rclawnmower.png)
